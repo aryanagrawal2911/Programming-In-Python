@@ -1,6 +1,7 @@
 # Complete the function fun() which takes the
-# string s , integer k ,integer n and the character c as input parameter and
-# returns the occurence of the character c  in the first n characters of the final string.
+# string s ,integer n and the character c as input parameter and
+# returns the occurence of the character c  in the first n characters of the final string where it is just the string concatenated
+# with itself over k times
 
 def fun(self, s,n,c):
 
