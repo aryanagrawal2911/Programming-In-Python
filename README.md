@@ -4,6 +4,8 @@ Contains enough basics to acquaint with the language, especially for beginners i
 Gives an overview and a bit of handwritten notes along with examples in some cases.
 
 Also houses some of my first programs as a python dev.
+Please do check out the Practice Codes folder as it contains many miscellaneous programs spread over a wide range of utilities and topics.
+
 Feel absolutely free to contribute to this repository by adding your own beginner-friendly code examples. Share your knowledge and help others learn :
 
 Ensure your code examples are beginner-friendly and well-commented.
