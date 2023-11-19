@@ -1,3 +1,4 @@
+# Program to check if or not a given non - negative integer is a term of the Fibonacci series.
 
 def checkMember(n):
 
